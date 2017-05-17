@@ -25,4 +25,4 @@ LaRUG is organized by:
 [Grand Traverse Pie Company](http://gtpie.com)
 [exeResearch LLC](http://www.exeResearch.com)
 
-Want to sponsor a LaRUG meeting? Please contact @emilioxavier 
+Want to sponsor or host a LaRUG meeting? Please contact [Emilio](https://github.com/emilioxavier)
