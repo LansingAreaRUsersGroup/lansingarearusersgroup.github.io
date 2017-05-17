@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to the Lansing Area R Users Group
 
-You can use the [editor on GitHub](https://github.com/LansingAreaRUsersGroup/lansingarearusersgroup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Lansing Area R Users Group Logo]()The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Monthly Meetings
 
-### Markdown
+We hold monthly meetings on the second Monday of the month from 7-9pm at the [Grand Traverse Pie Company](http://gtpie.com) (in the Orchard Room) at the corner of East Grand River Avenue and Haggadorn Road in East Lansing, Michigan [Google Map](https://www.google.com/maps/place/Grand+Traverse+Pie+Company/@42.7302255,-84.4648517,17z/data=!4m12!1m6!3m5!1s0x8822c29e2298637f:0x65a99056073bd352!2sGrand+Traverse+Pie+Company!8m2!3d42.7302255!4d-84.4626577!3m4!1s0x8822c29e2298637f:0x65a99056073bd352!8m2!3d42.7302255!4d-84.4626577).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first hour of the meetup is devoted to a specific topic while the second hour is more of an open question and answer session -- or it might be a continuation of the first hour.
 
-```markdown
-Syntax highlighted code block
+## Additional Resources
+[LinkedIn Group](https://www.linkedin.com/groups/12048353)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Organizers
 
-1. Numbered
-2. List
+LaRUG is organized by:
+- Jack Brown [LinkedIn](https://www.linkedin.com/in/jackbrown1/)
+- Emilio Xavier Esposito (@emilioxavier) [LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/)
+- Rajil M. Karnani [LinkedIn](https://www.linkedin.com/in/rajilkarnani/)
 
-**Bold** and _Italic_ and `Code` text
+## Sponsors
 
-[Link](url) and ![Image](src)
-```
+[Grand Traverse Pie Company](http://gtpie.com)
+[exeResearch LLC](http://www.exeResearch.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LansingAreaRUsersGroup/lansingarearusersgroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to sponsor a LaRUG meeting? Please contact @emilioxavier 
