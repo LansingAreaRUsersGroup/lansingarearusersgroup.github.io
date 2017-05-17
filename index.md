@@ -1,3 +1,7 @@
+
+
+ 
+
 ## Welcome to the Lansing Area R Users Group
 
 ![Lansing Area R Users Group Logo]()The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.
@@ -15,9 +19,9 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 ## Organizers
 
 LaRUG is organized by:
-- Jack Brown [LinkedIn](https://www.linkedin.com/in/jackbrown1/)
-- Emilio Xavier Esposito (@emilioxavier) [LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/)
-- Rajil M. Karnani [LinkedIn](https://www.linkedin.com/in/rajilkarnani/)
+- Jack Brown ([LinkedIn](https://www.linkedin.com/in/jackbrown1/))
+- [Emilio Xavier Esposito](https://github.com/emilioxavier) ([LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/))
+- Rajil M. Karnani ([LinkedIn](https://www.linkedin.com/in/rajilkarnani/))
 
 ## Sponsors
 
