@@ -3,10 +3,6 @@
 
 <a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.
 
-<br/>
-<br/>
-
-
 ## Monthly Meetings
 
 We hold monthly meetings on the second Monday of the month from 7-9pm at the [Grand Traverse Pie Company](http://gtpie.com) (in the Orchard Room) at the corner of East Grand River Avenue and Haggadorn Road in East Lansing, Michigan [Google Map](https://www.google.com/maps/place/Grand+Traverse+Pie+Company/@42.7302255,-84.4648517,17z/data=!4m12!1m6!3m5!1s0x8822c29e2298637f:0x65a99056073bd352!2sGrand+Traverse+Pie+Company!8m2!3d42.7302255!4d-84.4626577!3m4!1s0x8822c29e2298637f:0x65a99056073bd352!8m2!3d42.7302255!4d-84.4626577).
