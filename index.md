@@ -1,5 +1,5 @@
 
-## Welcome to the Lansing Area R Users Group
+# Welcome to the Lansing Area R Users Group (with Data Science)
 
 <a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.
 
