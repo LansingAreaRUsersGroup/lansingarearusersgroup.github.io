@@ -10,7 +10,7 @@ We hold monthly meetings on the second Monday of the month from 7-9pm at the [Gr
 The first hour of the meetup is devoted to a specific topic while the second hour is more of an open question and answer session -- or it might be a continuation of the first hour.
 
 ### Upcoming Meetups
-- :fire: :boom: June 12, 2017 **This meeting will be held at the [East Lansing Public Library](https://www.elpl.org)** with a presentation by [Burtch Works](http://www.burtchworks.com); an executive recruiting firm specializing in analytics and data science positions.
+- June 12, 2017 **This meeting will be held at the [East Lansing Public Library](https://www.elpl.org)** with a presentation by [Burtch Works](http://www.burtchworks.com); an executive recruiting firm specializing in analytics and data science positions.
 - July 10, 2017
 - August 14, 2017
 - September 11, 2017
@@ -19,7 +19,7 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 - December 11, 2017
 
 ### Past Meetups
-- May 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/may2017.md))
+- May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/pastMeetups/may2017.md))
 - April 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/apr2017.md))
 - March 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/mar2017.md))
 - February 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/feb2017.md))
