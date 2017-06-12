@@ -1,7 +1,7 @@
 
 # Welcome to the Lansing Area R Users Group (with Data Science)
 
-<a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.</br>
+<a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>The Lansing Area R Users Group (LaRUG) brings together R users in the Lansing area for discussions on data science (analysis and predictive modeling), big data, and all things R. This group provides a relaxed environment to exchange ideas and discuss R. Whether you are new to R (and programming), a statistian, or an advanced user, we are the group for you.
 
 ## Monthly Meetings
 
@@ -39,7 +39,7 @@ LaRUG is organized by:
 ## Sponsors
 
 [Grand Traverse Pie Company](http://gtpie.com)
-</br>
+
 [exeResearch LLC](http://www.exeResearch.com)
 
 Want to sponsor or host a LaRUG meeting? Please contact [Emilio](https://github.com/emilioxavier)
