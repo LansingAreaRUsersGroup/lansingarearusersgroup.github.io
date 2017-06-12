@@ -11,7 +11,7 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 
 ### Upcoming Meetups
 - June 12, 2017 **This meeting will be held at the [East Lansing Public Library](https://www.elpl.org)** with a presentation by [Burtch Works](http://www.burtchworks.com); an executive recruiting firm specializing in analytics and data science positions.
-- July 10, 2017
+- July 10, 2017 (topic: Holidays _Conceptual disucssion session on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. Attendees are encouraged to discuss what they have experienced and what has worked well for them._ Discussion Leader: Chris Umphlett [LinkedIn](https://www.linkedin.com/in/chris-umphlett-2a905669))
 - August 14, 2017
 - September 11, 2017
 - October 9, 2017
