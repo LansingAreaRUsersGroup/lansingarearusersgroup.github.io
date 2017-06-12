@@ -19,7 +19,7 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 - December 11, 2017
 
 ### Past Meetups
-- May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/may2017.md))
+- May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/may2017))
 - April 2017 ([Notes](https://lansingarearusersgroup.github.io/apr2017.md))
 - March 2017 ([Notes](https://lansingarearusersgroup.github.io/mar2017.md))
 - February 2017 ([Notes](https://lansingarearusersgroup.github.io/feb2017.md))
