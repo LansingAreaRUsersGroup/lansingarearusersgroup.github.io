@@ -9,7 +9,7 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 
 ### July 10, 2017
 ## Holidays
-Conceptual disucssion session on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. Attendees are encouraged to discuss what they have experienced and what has worked well for them.
+Conceptual discussion session on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. Attendees are encouraged to discuss what they have experienced and what has worked well for them.
 
 Chris Umphlett ([LinkedIn](https://www.linkedin.com/in/chris-umphlett-2a905669)), a Senior Operations Business Process Analyst at [Jackson National Life](https://www.jackson.com), will lead this discussion. 
 
