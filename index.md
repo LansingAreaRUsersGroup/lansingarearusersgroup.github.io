@@ -47,12 +47,12 @@ What is your R workflow? Share how you perform analysis and write functions.
 ------
 
 ### Past Meetups
-- June 12, 2017 A presentation by [Burtch Works](http://www.burtchworks.com) -- an executive recruiting firm specializing in analytics and data science positions -- was presented followed by a Q&A session with Naomi Keller ([LinkedIn](https://www.linkedin.com/in/naomikeller/)).
-- May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/may2017))
-- April 2017 ([Notes](https://lansingarearusersgroup.github.io/apr2017))
-- March 2017 ([Notes](https://lansingarearusersgroup.github.io/mar2017))
-- February 2017 ([Notes](https://lansingarearusersgroup.github.io/feb2017))
-- January 2017 ([Notes](https://lansingarearusersgroup.github.io/jan2017))
+- June 12, 2017 A presentation by [Burtch Works](http://www.burtchworks.com) -- an executive recruiting firm specializing in analytics and data science positions -- was presented followed by a Q&A session with Naomi Keller ([LinkedIn](https://www.linkedin.com/in/naomikeller/)). ([Notes on Q&A about the Data Science Job Market](https://lansingarearusersgroup.github.io/pastMeetups/jun2017))
+- May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/pastMeetups/may2017))
+- April 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/apr2017))
+- March 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/mar2017))
+- February 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/feb2017))
+- January 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/jan2017))
 
 ## Additional Resources
 [LinkedIn Group](https://www.linkedin.com/groups/12048353)
