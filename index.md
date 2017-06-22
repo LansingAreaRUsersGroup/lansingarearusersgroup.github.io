@@ -24,25 +24,25 @@ What is your R workflow? Share how you perform analysis and write functions.
 ------
 
 ### September 11, 2017
-## to be announced
+## to be determined
 
 
 ------
 
 ### October 9, 2017
-## to be announced
+## to be determined
 
 
 ------
 
 ### November 13, 2017
-## to be announced
+## to be determined
 
 
 ------
 
 ### December 11, 2017
-## to be announced
+## to be determined
 
 ------
 
@@ -56,6 +56,10 @@ What is your R workflow? Share how you perform analysis and write functions.
 
 ## Additional Resources
 [LinkedIn Group](https://www.linkedin.com/groups/12048353)
+
+[R and Data Science Books](https://lansingarearusersgroup.github.io/resources/books)
+
+[Online Courses and Webinars](https://lansingarearusersgroup.github.io/resources/education)
 
 
 ## Organizers
