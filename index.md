@@ -53,6 +53,7 @@ What is your R workflow? Share how you perform analysis and write functions.
 - March 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/mar2017))
 - February 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/feb2017))
 - January 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/jan2017))
+- January 2017 ([Notes on Tableplots, Notebooks with R Markdown, dygraphs, and a traffic accident dataset](https://lansingarearusersgroup.github.io/pastMeetups/dec2016))
 
 ## Additional Resources
 [LinkedIn Group](https://www.linkedin.com/groups/12048353)
