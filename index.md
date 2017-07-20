@@ -7,14 +7,6 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 
 ------
 
-### July 10, 2017
-## Holidays
-Conceptual discussion session on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. Attendees are encouraged to discuss what they have experienced and what has worked well for them.
-
-Chris Umphlett ([LinkedIn](https://www.linkedin.com/in/chris-umphlett-2a905669)), a Senior Operations Business Process Analyst at [Jackson National Life](https://www.jackson.com), will lead this discussion. 
-
-------
-
 ### August 14, 2017
 ## R Workflows
 What is your R workflow? Share how you perform analysis and write functions.
@@ -47,6 +39,7 @@ What is your R workflow? Share how you perform analysis and write functions.
 ------
 
 ### Past Meetups
+- July 10, 2017 A discussion lead by Chris Umphlett ([LinkedIn](https://www.linkedin.com/in/chris-umphlett-2a905669)), a Senior Operations Business Process Analyst at [Jackson National Life](https://www.jackson.com), on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. ([Notes on holiday staffing and other topics](https://lansingarearusersgroup.github.io/pastMeetups/jul2017))
 - June 12, 2017 A presentation by [Burtch Works](http://www.burtchworks.com) -- an executive recruiting firm specializing in analytics and data science positions -- was presented followed by a Q&A session with Naomi Keller ([LinkedIn](https://www.linkedin.com/in/naomikeller/)). ([Notes on Q&A about the Data Science Job Market](https://lansingarearusersgroup.github.io/pastMeetups/jun2017))
 - May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/pastMeetups/may2017))
 - April 2017 ([Notes](https://lansingarearusersgroup.github.io/pastMeetups/apr2017))

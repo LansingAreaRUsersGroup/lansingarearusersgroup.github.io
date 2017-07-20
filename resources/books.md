@@ -64,6 +64,9 @@ To be published by O’Reilly in November 2016.
 - _The Book of R: A First Course in Programming and Statistics_
 by Tilman M. Davies
 [No Starch link](https://www.nostarch.com/bookofr)
+- _97 Things Every Programmer Should Know_
+edited by Kevlin Henney
+[O'Reilly link](http://shop.oreilly.com/product/9780596809492.do)
 
 
 [back](../)
