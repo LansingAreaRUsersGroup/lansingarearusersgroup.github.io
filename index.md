@@ -49,7 +49,7 @@ What is your R workflow? Share how you perform analysis and write functions.
 - December 2016 ([Notes on Tableplots, Notebooks with R Markdown, dygraphs, and a traffic accident dataset](https://lansingarearusersgroup.github.io/pastMeetups/dec2016))
 
 ## Additional Resources
-[LinkedIn Group](https://www.linkedin.com/groups/12048353)
+[LinkedIn Group](https://www.linkedin.com/groups/12048353) Please request to become a member!
 
 [R and Data Science Books](https://lansingarearusersgroup.github.io/resources/books)
 
@@ -58,7 +58,7 @@ What is your R workflow? Share how you perform analysis and write functions.
 
 ## Organizers
 
-LaRUG is organized by:
+laRUG is organized by:
 - Jack Brown ([LinkedIn](https://www.linkedin.com/in/jackbrown1/))
 - [Emilio Xavier Esposito](https://github.com/emilioxavier) ([LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/))
 - Rajil M. Karnani ([LinkedIn](https://www.linkedin.com/in/rajilkarnani/))
@@ -69,4 +69,4 @@ LaRUG is organized by:
 
 [exeResearch LLC](http://www.exeResearch.com)
 
-Want to sponsor or host a LaRUG meeting? Please contact [Emilio](https://github.com/emilioxavier)
+Want to sponsor or host a laRUG meeting? Please contact [Emilio](https://github.com/emilioxavier)
