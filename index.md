@@ -1,14 +1,14 @@
 
 # Monthly Meetups
 
-<a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>We hold monthly meetings on the second Monday of the month from 7-9pm at the [Grand Traverse Pie Company](http://gtpie.com) (in the Orchard Room) at the corner of East Grand River Avenue and Haggadorn Road in East Lansing, Michigan [Google Map](https://www.google.com/maps/place/Grand+Traverse+Pie+Company/@42.7302255,-84.4648517,17z/data=!4m12!1m6!3m5!1s0x8822c29e2298637f:0x65a99056073bd352!2sGrand+Traverse+Pie+Company!8m2!3d42.7302255!4d-84.4626577!3m4!1s0x8822c29e2298637f:0x65a99056073bd352!8m2!3d42.7302255!4d-84.4626577).
+<a href="url"><img src="https://lansingarearusersgroup.github.io/images/LansingAreaRUserGroup_CIRCLE-w-Michigan-logo_300dpi.png" align="left" height="200"></a>We hold monthly meetings on the second Monday of the month from 7-9pm at the [Grand Traverse Pie Company](http://gtpie.com) (in the Orchard Room) at the corner of East Grand River Avenue and Hagadorn Road in East Lansing, Michigan [Google Map](https://www.google.com/maps/place/Grand+Traverse+Pie+Company/@42.7302255,-84.4648517,17z/data=!4m12!1m6!3m5!1s0x8822c29e2298637f:0x65a99056073bd352!2sGrand+Traverse+Pie+Company!8m2!3d42.7302255!4d-84.4626577!3m4!1s0x8822c29e2298637f:0x65a99056073bd352!8m2!3d42.7302255!4d-84.4626577).
 
 The first hour of the meetup is devoted to a specific topic while the second hour is more of an open question and answer session -- or it might be a continuation of the first hour.
 
 ------
 
 ### August 14, 2017
-## R Workflows
+## Data science workflows with R
 What is your R workflow? Share how you perform analysis and write functions.
 
 [Emilio Xavier Esposito](https://github.com/emilioxavier) ([LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/)), a Data Scientist and Senior Consulting Computational Chemist at [exeResearch](http://www.exeResearch.com), will lead this discussion.
@@ -16,8 +16,10 @@ What is your R workflow? Share how you perform analysis and write functions.
 ------
 
 ### September 11, 2017
-## to be determined
+## Non-technical introduction to deep learning, with kerasR
+Interested in deep learning but don't know where to start? Join us for a non-technical introduction with kerasR.
 
+Yu Lucy Han ([LinkedIn](https://www.linkedin.com/in/yulucyhan/)), a Business Intelligence Analyst at [Centurion Medical Products](http://www.centurionmp.com), will lead this discussion.
 
 ------
 
