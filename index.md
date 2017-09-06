@@ -7,25 +7,18 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 
 ------
 
-### August 14, 2017
-## Data science workflows with R
-What is your R workflow? Share how you perform analysis and write functions.
-
-[Emilio Xavier Esposito](https://github.com/emilioxavier) ([LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/)), a Data Scientist and Senior Consulting Computational Chemist at [exeResearch](http://www.exeResearch.com), will lead this discussion.
-
-------
-
 ### September 11, 2017
-## Non-technical introduction to deep learning, with kerasR
-Interested in deep learning but don't know where to start? Join us for a non-technical introduction with kerasR.
+## Using R for Data Analysis and laRUG Planning
+A general discussion of the latest packages and methods for analyzing data. We will also discuss and plan the meetups through the end of the spring 2018 semester. 
 
-Yu Lucy Han ([LinkedIn](https://www.linkedin.com/in/yulucyhan/)), a Business Intelligence Analyst at [Centurion Medical Products](http://www.centurionmp.com), will lead this discussion.
 
 ------
 
 ### October 9, 2017
-## to be determined
+## Non-technical introduction to deep learning, with kerasR
+Interested in deep learning but don't know where to start? Join us for a non-technical introduction with kerasR.
 
+Yu Lucy Han ([LinkedIn](https://www.linkedin.com/in/yulucyhan/)), a Business Intelligence Analyst at [Centurion Medical Products](http://www.centurionmp.com), will lead this discussion.
 
 ------
 
@@ -41,6 +34,7 @@ Yu Lucy Han ([LinkedIn](https://www.linkedin.com/in/yulucyhan/)), a Business Int
 ------
 
 ### Past Meetups
+- August 14, 2017 A discussion lead by [Emilio Xavier Esposito](https://github.com/emilioxavier) ([LinkedIn](https://www.linkedin.com/in/emilioxavieresposito/)), a Data Scientist and Senior Consulting Computational Chemist at [exeResearch](http://www.exeResearch.com) on data science workflows with R. [Notes coming...]
 - July 10, 2017 A discussion lead by Chris Umphlett ([LinkedIn](https://www.linkedin.com/in/chris-umphlett-2a905669)), a Senior Operations Business Process Analyst at [Jackson National Life](https://www.jackson.com), on how departments adjust for non-weekend adjacent holidays and the different strategies they employ to staff moving holidays and non-moving holidays. ([Notes on holiday staffing and other topics](https://lansingarearusersgroup.github.io/pastMeetups/jul2017))
 - June 12, 2017 A presentation by [Burtch Works](http://www.burtchworks.com) -- an executive recruiting firm specializing in analytics and data science positions -- was presented followed by a Q&A session with Naomi Keller ([LinkedIn](https://www.linkedin.com/in/naomikeller/)). ([Notes on Q&A about the Data Science Job Market](https://lansingarearusersgroup.github.io/pastMeetups/jun2017))
 - May 2017 ([Notes on text mining](https://lansingarearusersgroup.github.io/pastMeetups/may2017))
