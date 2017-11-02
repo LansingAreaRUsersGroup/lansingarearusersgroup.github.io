@@ -11,6 +11,7 @@ The first hour of the meetup is devoted to a specific topic while the second hou
 ## (s/l/a)pply versus loop versus dplyr
 Do you use loops? Or do you use (s/l/a)pply? How about dplyr? Which do you like better? Come join the discussion!
 
+[MeetUp link](https://www.meetup.com/preview/Lansing-Area-R-Users-Group/events/244682588)
 
 ------
 
