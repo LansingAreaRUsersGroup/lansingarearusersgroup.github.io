@@ -1,7 +1,7 @@
 
 # Monthly Meetups
 
-<a href="url"><img src="https://lansingarearusersgroup.github.io/images/laRUG_logo_sep2018_300dpi" align="left" height="200"></a>We hold monthly meetings on the second Monday of the month from 7-9pm at the [Biggby Coffee](http://biggby.com) in front of Dunhams and the Secretary of State (SoS) Office Lansing, Michigan [Google Map](https://goo.gl/maps/oiP3Z7UXYf72) next to Ranney Park (Plus Code: PFMX+H5 Lansing, Lansing Charter Twp, MI).
+<a href="url"><img src="https://lansingarearusersgroup.github.io/images/laRUG_logo_sep2018_300dpi.png" align="left" height="200"></a>We hold monthly meetings on the second Monday of the month from 7-9pm at the [Biggby Coffee](http://biggby.com) in front of Dunhams and the Secretary of State (SoS) Office Lansing, Michigan [Google Map](https://goo.gl/maps/oiP3Z7UXYf72) next to Ranney Park (Plus Code: PFMX+H5 Lansing, Lansing Charter Twp, MI).
 
 The first hour of the meetup is devoted to a specific topic while the second hour is more of an open question and answer session -- or it might be a continuation of the first hour. The discussions range from specific R functions and libraries, to general data science and analytics topics, to open discussion and help sessions. Everyone is welcomed to attend the meetings, bring questions and ideas, and participate or observe.
 
